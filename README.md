@@ -1,0 +1,1 @@
+O Refit é uma biblioteca para .NET desenvolvida para facilitar o consumo de API's REST (HTTP Client), a ideia é fornecer interfaces que abstraem a comunicação com os serviços HTTP possibilitando a escrita de um código clean e de baixo acoplamento usando poucas linhas de código.
